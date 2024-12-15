@@ -75,7 +75,7 @@ Clona el repositorio
 Vamos a la carpeta del proyecto
 
 ```bash
-  cd prograwebLFCH-API
+  cd Fronted-Pokemon-LFCH-HBGS
 ```
 
 Instalamos dependencias
